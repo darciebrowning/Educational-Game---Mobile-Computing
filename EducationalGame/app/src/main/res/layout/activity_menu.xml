@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="com.example.darcie.educationalgame.MenuActivity"
+    android:orientation="vertical">
+
+    <Button
+        android:id="@+id/playButton"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_weight="1"
+        android:text="@string/play"/>
+
+    <Button
+        android:id="@+id/settingsButton"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/settings"
+        android:layout_weight="1"/>
+
+    <Button
+        android:id="@+id/highScoresButton"
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:text="@string/high_scores"
+        android:layout_weight="1" />
+</LinearLayout>

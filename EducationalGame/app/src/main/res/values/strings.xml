@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">EducationalGame</string>
+
+    <string name="title_activity_fullscreen_menu">FullscreenMenuActivity</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="play">play</string>
+    <string name="settings">settings</string>
+    <string name="high_scores">highScores</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+    <string name="title_activity_high_scores">HighScoresActivity</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_activity_game">GameActivity</string>
+    <string name="shakeMessage">Shake to begin a new game!</string>
+</resources>
